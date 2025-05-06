@@ -1,5 +1,5 @@
 import React from 'react';
-import WeatherCloudy from '../assets/Weather-cloudy.png'
+import WeatherCloudy from '../assets/weather-cloudy.png'
 const WeatherCard = ({weatherDetails}) => {
   console.log(weatherDetails);
   
